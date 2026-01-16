@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👩‍💻 Srushti Chavan
 
-<!--
-**sruchavan/sruchavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master of Computer Applications (MCA) Student**  
+💼 **Technology Enthusiast | Aspiring Software Developer**
 
-Here are some ideas to get you started:
+I am a motivated MCA student with a strong interest in technology and software development. I enjoy learning new tools, building web-based solutions, and continuously improving my technical skills. I am familiar with modern development practices and version control workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+### 🌐 Web Technologies
+- HTML  
+- CSS  
+- JavaScript  
+- Tailwind CSS  
+- Bootstrap  
+- WordPress  
+
+### 🐍 Programming
+- Python  
+
+### ⚙️ Tools & Platforms
+- Git  
+- GitHub  
+- Visual Studio Code  
+
+---
+
+## 🎯 Professional Interests
+- Web Development  
+- Software Development  
+- Learning and exploring emerging technologies  
+- Building practical and scalable solutions  
+
+---
+
+## 📫 Contact & Profiles
+- 📧 Email: **srushtichavan78@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/srushti-chavan-723937253](https://www.linkedin.com/in/srushti-chavan-723937253)
